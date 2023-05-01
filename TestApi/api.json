@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Megha",
+      "lastname": "Gavankar",
+      "email": "megha@gmail.com",
+      "mobile": "07769967004",
+      "age": "25",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "407,om sai dutta apartment,nana nani park",
+      "tags": "hocky"
+    },
+    {
+      "profile": null,
+      "firstname": "pooja",
+      "lastname": "patil",
+      "email": "neha@gmail.com",
+      "mobile": "07769967004",
+      "age": "20",
+      "state": "Maharashtra",
+      "country": "India",
+      "tags": "cricket",
+      "id": 2
+    },
+    {
+      "profile": "",
+      "firstname": "MEGHA",
+      "lastname": "GAVANKAR",
+      "email": "",
+      "mobile": "07769967004",
+      "age": 25,
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "407,om sai dutta apartment,nana nani park",
+      "tags": "",
+      "id": 3
+    },
+    {
+      "profile": "",
+      "firstname": "ranjana",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "age": 48,
+      "state": "",
+      "country": "",
+      "address": "",
+      "tags": "",
+      "id": 4
+    },
+    {
+      "profile": "",
+      "firstname": "MEGHA",
+      "lastname": "GAVANKAR",
+      "email": "",
+      "mobile": "07769967004",
+      "age": "",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "407,om sai dutta apartment,nana nani park",
+      "tags": "",
+      "id": 5
+    }
+  ]
+}
